@@ -1,3 +1,3 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showNumber(randint(1, 19))
+    basic.showNumber(randint(1, 17))
 })
